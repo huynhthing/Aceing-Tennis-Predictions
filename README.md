@@ -25,16 +25,16 @@ This data was modified to create features for the prediction pipepline.
 # Predictive Model
 I used logistic regression in my pipeline to predict the winner. 
 
-Accuracy: 0.7531979239037149
-ROC AUC: 0.8004239114424158
+            Accuracy: 0.7531979239037149
+            ROC AUC: 0.8004239114424158
 
-Classification Report:
+            Classification Report:
                precision    recall  f1-score   support
 
            0       0.70      0.51      0.59      8524
            1       0.77      0.88      0.82     15945
 
-    accuracy                           0.75     24469
-   macro avg       0.74      0.70      0.71     24469
-weighted avg       0.75      0.75      0.74     24469
+            accuracy                           0.75     24469
+            macro avg       0.74      0.70      0.71     24469
+            weighted avg       0.75      0.75      0.74     24469
 
