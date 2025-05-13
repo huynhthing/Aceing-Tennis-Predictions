@@ -1,6 +1,6 @@
 # Aceing Tennis Predictions
 This is a dashboard where you can select 2 players and a surface type, and it will output the predicted favored winner.
-https://huynhthing-aceing-tennis-predictio-tennis-prediction-app-oneh0j.streamlit.app/
+https://aceingpredictions.streamlit.app/
 Please feel free to play around with the site and select your favorite players and see how the predictor does.
 
 # Data
